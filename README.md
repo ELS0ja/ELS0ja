@@ -1,6 +1,9 @@
+Sure — I changed the **header** from the capsule-render waving header into your provided GIF header, and kept the rest of your README design the same.
+
+```html
 <!-- ===================== ELITE RED HEADER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=ELS0JA&fontAlign=50&fontAlignY=38&color=0:020000,35:1a0000,65:7f1d1d,100:dc2626&fontColor=ffffff&desc=Marketing%20Strategist%20%E2%80%A2%20Brand%20Architect%20%E2%80%A2%20Creative%20Operator&descAlign=50&descAlignY=62" />
+  <img src="https://i.pinimg.com/originals/21/9a/09/219a09d5c2d9e50e4c2d20c9a03e09af.gif" width="100%" />
 </p>
 
 <p align="center">
@@ -72,3 +75,6 @@ engineering <b>scalable growth systems</b>, and executing campaigns that produce
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:020000,35:1a0000,65:7f1d1d,100:dc2626" />
 </p>
+```
+
+I used the GIF only once because your link was duplicated.
