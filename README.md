@@ -1,6 +1,4 @@
-Sure — I changed the **header** from the capsule-render waving header into your provided GIF header, and kept the rest of your README design the same.
 
-```html
 <!-- ===================== ELITE RED HEADER ===================== -->
 <p align="center">
   <img src="https://i.pinimg.com/originals/21/9a/09/219a09d5c2d9e50e4c2d20c9a03e09af.gif" width="100%" />
@@ -16,7 +14,7 @@ Sure — I changed the **header** from the capsule-render waving header into you
 
 ---
 
-## ⚡ WHO I AM
+ ⚡ WHO I AM
 <p align="center">
 Strategic Marketing Officer focused on building <b>high-converting brands</b>, 
 engineering <b>scalable growth systems</b>, and executing campaigns that produce 
@@ -25,7 +23,7 @@ engineering <b>scalable growth systems</b>, and executing campaigns that produce
 
 ---
 
-## 🔥 CORE CAPABILITIES
+ 🔥 CORE CAPABILITIES
 <p align="center">
 <img src="https://img.shields.io/badge/Brand%20Strategy-050000?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Growth%20Marketing-1a0000?style=for-the-badge"/>
@@ -35,14 +33,14 @@ engineering <b>scalable growth systems</b>, and executing campaigns that produce
 
 ---
 
-## 🧠 TECH STACK
+ 🧠 TECH STACK
 <p align="center">
 <img src="https://skillicons.dev/icons?i=figma,ps,ai,notion,html,css,js&theme=dark" />
 </p>
 
 ---
 
-## 📊 ANALYTICS
+ 📊 ANALYTICS
 <p align="center">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=ELS0ja&show_icons=true&theme=tokyonight&hide_border=true&title_color=dc2626&icon_color=dc2626"/>
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ELS0ja&layout=compact&theme=tokyonight&hide_border=true&title_color=dc2626"/>
@@ -50,14 +48,14 @@ engineering <b>scalable growth systems</b>, and executing campaigns that produce
 
 ---
 
-## 🧩 STRATEGIC PRINCIPLE
+ 🧩 STRATEGIC PRINCIPLE
 <p align="center">
 <i>"Attention creates leverage. Strategy builds control. Execution drives outcomes."</i>
 </p>
 
 ---
 
-## 🌐 CONNECT
+ 🌐 CONNECT
 <p align="center">
 <a href="https://www.facebook.com/aljon.dejesus.127">
 <img src="https://img.shields.io/badge/Facebook-050000?style=for-the-badge&logo=facebook&logoColor=white"/>
@@ -75,6 +73,5 @@ engineering <b>scalable growth systems</b>, and executing campaigns that produce
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:020000,35:1a0000,65:7f1d1d,100:dc2626" />
 </p>
-```
 
-I used the GIF only once because your link was duplicated.
+
